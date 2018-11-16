@@ -2979,4 +2979,4 @@ client.on("guildMemberAdd", member => {
 
 
 //MHSTR END NOW THIS IS END
-client.login('NTExNTg3MzI0ODAzNjc4MjM5.Dsybxw.q9brLchWY3FXVU4X9hNIbuOvPy0');
+client.login(process.env.BOT_TOKEN);
